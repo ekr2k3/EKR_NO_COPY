@@ -132,7 +132,7 @@ span {
 
 .new {
   position: absolute;
-  right: -100px;
+  right: -70%;
   animation: new_animation 5s ease-in-out 1.5s forwards;
 }
 
@@ -159,7 +159,7 @@ span {
   background-color: red;
   position: absolute;
   top: 50%;
-  right: -100px;
+  right: -70%;
   margin-top: -285px;
   animation: balloon_animation 5s ease-in-out 1.5s forwards;
 }
